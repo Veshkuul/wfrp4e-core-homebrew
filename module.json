@@ -1,0 +1,14 @@
+{
+    "name": "wfrp4e-core-homebrew",
+    "title": "WFRP4e - Core Content Module - Homebrew",
+    "description": "Homebrew for the Core Content Module",
+    "version": "1.0.0",
+    "author": "Veshkuul",
+    "minimumCoreVersion": "9",
+    "compatibleCoreVersion": "9",
+    "packs": [
+        
+    ],
+    "url": "https://github.com/Veshkuul/wfrp4e-core-homebrew",
+    "manifest": "https://github.com/Veshkuul/wfrp4e-core-homebrew/releases/download/1.0.0/module.json"
+}
