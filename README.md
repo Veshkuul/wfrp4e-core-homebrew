@@ -1,2 +1,2 @@
 # wfrp4e-core-homebrew
-Homebrew rules for Warhammer Fantasy Roleplay Core Module
+WFRP4e for Foundry VTT - Warhammer Fantasy Roleplay Core Module - Homebrew
